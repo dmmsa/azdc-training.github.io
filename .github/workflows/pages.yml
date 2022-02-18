@@ -39,7 +39,7 @@ jobs:
         with:
           name: static-website
           path: .vuepress/dist
-      - name: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages!!!!
         uses: crazy-max/ghaction-github-pages@v2
         with:
           build_dir: .vuepress/dist
